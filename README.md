@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @itsolliedev
 - 👀 I’m interested in coding and gaming
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning TypeScript but I have strong knowledge in HTML, CSS, JavaScript & NodeJS
 - 💞️ I’m looking to collaborate on cool little projects
-- 📫 How to reach me hi@olliethedev.com or Ollie.#0999 on discord
+- 📫 How to reach me hi@olliethedev.com or Ollie.#6969 on discord
